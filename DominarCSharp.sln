@@ -39,22 +39,26 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalasYDragones", "BalasYDra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasesYObjetos", "ClasesYObjetos\ClasesYObjetos.csproj", "{5B5438D4-B69C-493D-A146-2E332D6FAA46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.csproj", "{15064577-2B22-4A0D-9DE7-C4923A83AF96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.csproj", "{15064577-2B22-4A0D-9DE7-C4923A83AF96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoConstructor", "MetodoConstructor\MetodoConstructor.csproj", "{A522AC04-EA5D-42A2-BF1D-9E3B4C13AB74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoConstructor", "MetodoConstructor\MetodoConstructor.csproj", "{A522AC04-EA5D-42A2-BF1D-9E3B4C13AB74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propiedades", "Propiedades\Propiedades.csproj", "{1507BAA9-C21A-4426-A942-BAB46F16DFB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Propiedades", "Propiedades\Propiedades.csproj", "{1507BAA9-C21A-4426-A942-BAB46F16DFB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia\Herencia.csproj", "{9DAA3C2A-0426-47A7-ADEA-3B6A0C5F8D2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herencia.csproj", "{9DAA3C2A-0426-47A7-ADEA-3B6A0C5F8D2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaDeMetodos", "SobrecargaDeMetodos\SobrecargaDeMetodos.csproj", "{6424E50B-D1B4-4005-8C2D-5302C90C132A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaDeMetodos", "SobrecargaDeMetodos\SobrecargaDeMetodos.csproj", "{6424E50B-D1B4-4005-8C2D-5302C90C132A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrescrituraDeMetodos", "SobrescrituraDeMetodos\SobrescrituraDeMetodos.csproj", "{73B12DCC-68FB-44B1-AEF7-944DDA97B5B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrescrituraDeMetodos", "SobrescrituraDeMetodos\SobrescrituraDeMetodos.csproj", "{73B12DCC-68FB-44B1-AEF7-944DDA97B5B5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{8488E539-B1A8-4FE2-97F1-2AC149B20671}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncontrarElNumeroMenor", "EncontrarElNumeroMenor\EncontrarElNumeroMenor.csproj", "{56A70197-8EFB-4DEA-AADF-E4064B56700D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoyElMejorDeLaClase", "SoyElMejorDeLaClase\SoyElMejorDeLaClase.csproj", "{1351064F-8D86-4F79-84BD-2C49D10D95F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -146,6 +150,14 @@ Global
 		{73B12DCC-68FB-44B1-AEF7-944DDA97B5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B12DCC-68FB-44B1-AEF7-944DDA97B5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B12DCC-68FB-44B1-AEF7-944DDA97B5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A70197-8EFB-4DEA-AADF-E4064B56700D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A70197-8EFB-4DEA-AADF-E4064B56700D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A70197-8EFB-4DEA-AADF-E4064B56700D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A70197-8EFB-4DEA-AADF-E4064B56700D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1351064F-8D86-4F79-84BD-2C49D10D95F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1351064F-8D86-4F79-84BD-2C49D10D95F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1351064F-8D86-4F79-84BD-2C49D10D95F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1351064F-8D86-4F79-84BD-2C49D10D95F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -172,6 +184,8 @@ Global
 		{9DAA3C2A-0426-47A7-ADEA-3B6A0C5F8D2A} = {88B45665-FC80-4980-AC9A-EE08BA11533C}
 		{6424E50B-D1B4-4005-8C2D-5302C90C132A} = {88B45665-FC80-4980-AC9A-EE08BA11533C}
 		{73B12DCC-68FB-44B1-AEF7-944DDA97B5B5} = {88B45665-FC80-4980-AC9A-EE08BA11533C}
+		{56A70197-8EFB-4DEA-AADF-E4064B56700D} = {75E46AC6-5D06-4B11-B9DC-F5C1F5DAEB17}
+		{1351064F-8D86-4F79-84BD-2C49D10D95F2} = {75E46AC6-5D06-4B11-B9DC-F5C1F5DAEB17}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B737ACE1-7F9D-4A33-9412-9ADAAACF97F8}
