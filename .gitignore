@@ -1,0 +1,20 @@
+# Ignorar carpetas de compilación
+**/obj/
+
+# Ignorar carpeta de configuración de Visual Studio
+.vs/
+
+# Ignorar archivos de depuración
+*.pdb
+
+# Ignorar carpetas bin y release/debug
+**/bin/
+**/Debug/
+**/Release/
+
+# Ignorar archivos generados por el sistema
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
